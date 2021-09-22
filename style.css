@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+}
+
+html{
+    height: 150%;
+    background-color: orange;
+}
+
+.wrapper{
+    box-sizing: border-box;
+    padding-top: 65px;
+    padding-left: 8px;
+}
+
+nav{
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #5d5454;
+    color: white;
+    box-sizing: border-box;
+    padding: 20px 8px;
+}
+
+h1,h2,h3,h4,h5,h6,p{
+    margin-bottom: 16px;
+    color: #ffffff;
+    position: center;
+}
+
+a{
+    color:white;
+    text-decoration: none;
+    margin-right: 15px;
+}
